@@ -12,8 +12,9 @@ Three new directories will be created:
 - `res`: Raw unpacked and compiled lua files
 - `src`: Decompiled Lua 5.1 files
 
-Lua module names are represented as paths in `dis` and `src`. Ex:
+Lua module names are represented as paths in `dis` and `src`. Ex:<br/>
 `lib.config.enemy_config.lu -> lib/config/enemy_config.lua`
 
 ## Credit
-This project requires [corona-archiver.py](https://github.com/0BuRner/corona-archiver). [LICENSE](https://github.com/0BuRner/corona-archiver/blob/master/LICENSE)
+This project requires [corona-archiver.py](https://github.com/0BuRner/corona-archiver). [LICENSE](https://github.com/0BuRner/corona-archiver/blob/master/LICENSE)<br/>
+This project requires [unluac](https://sourceforge.net/p/unluac/). [LICENSE](https://sourceforge.net/p/unluac/hgcode/ci/default/tree/license.txt)
