@@ -3,7 +3,7 @@ Unpacks the resource.car file within the `assets/` folder of DayR's APK.
 
 ## Using
 ```
-git clone https://gitnub.com/yntha/dayr-unpacker
+git clone https://github.com/yntha/dayr-unpacker
 cd dayr-unpacker
 python dayr-unpacker <resource.car path>
 ```
